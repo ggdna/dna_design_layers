@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x299cd5817d7063f2"
+      "hash": "0xa5dc72a57324ede1"
     }
   ],
   "claude": {
@@ -63,7 +63,7 @@
     },
     {
       "path": "doc/guides/layers-guide.md",
-      "hash": "0x83e39ffe86369c5e"
+      "hash": "0x5c82ceaa060d087d"
     },
     {
       "path": "doc/guides/layers/conceptual-model-guide.md",
