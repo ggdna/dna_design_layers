@@ -1,6 +1,6 @@
 name: dna_design_layers
 description: "DNA layer: the seven layers of product design - guides and /layers-* skills"
-version: 0.1.0
+version: 0.2.0
 repository: https://github.com/ggdna/dna_design_layers.git
 
 environment:
