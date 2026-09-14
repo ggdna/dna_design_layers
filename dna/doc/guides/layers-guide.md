@@ -60,6 +60,7 @@ Solution space — deliberate decisions about what to build:
 ## Record the results
 
 - Write the residue of a session into the project management repo, see the
-  [PM repo guide](pm-repo-guide.md#use-the-design-layers)
+  [PM repo guide](pm-repo-guide.md#use-the-design-layers) of the
+  `dna_plan` layer, if the repo has it
 - One decision per file in `concepts/decisions`; everything else in the
   topic, ux or goal file it belongs to
