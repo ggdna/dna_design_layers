@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1 - 2026-10-19
+
+- Point the layers guide and the product strategy guide to the goals and
+requirements of the PM repo, which outlive quarters
+
 ## 0.2.0 - 2026-09-14
 
 - Add the layers guide, one guide per layer of product design plus the

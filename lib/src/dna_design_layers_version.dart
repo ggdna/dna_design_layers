@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `dna_design_layers` package.
-const String dnaDesignLayersVersion = '0.2.0';
+const String dnaDesignLayersVersion = '0.2.1';

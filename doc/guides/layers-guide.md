@@ -63,4 +63,4 @@ Solution space — deliberate decisions about what to build:
   [PM repo guide](pm-repo-guide.md#use-the-design-layers) of the
   `dna_plan` layer, if the repo has it
 - One decision per file in `concepts/decisions`; everything else in the
-  topic, ux or goal file it belongs to
+  topic, ux, goal or requirements file it belongs to
