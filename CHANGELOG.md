@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.1 - 2026-10-19
 
 - Point the layers guide and the product strategy guide to the goals and
 requirements of the PM repo, which outlive quarters
