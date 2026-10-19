@@ -1,7 +1,7 @@
 {
   "name": "@ggdna/dna-design-layers",
   "version": "0.2.0",
-  "description": "DNA layer: the seven layers of product design - guides and /layers-* skills",
+  "description": "Gives a repo the guides and skills to work through the seven layers of product design, from observed behaviour to the surface.",
   "keywords": [
     "dna",
     "helix",
