@@ -56,6 +56,7 @@ Layer 4 of 7, first layer of the solution space. Skill:
 ## Continue
 
 The chosen bets define what to model next in the
-[conceptual model](conceptual-model-guide.md). Goals live in `doc/goals`
-of the PM repo and outlive quarters; the requirements derived from the
-bets live in `doc/requirements`.
+[conceptual model](conceptual-model-guide.md). Goals live in `goals` of
+the current quarter folder `doc/<yyyy>-Q<n>` of the PM repo and are
+carried into the next quarter while they are open; the requirements
+derived from the bets live in `requirements` beside them.
