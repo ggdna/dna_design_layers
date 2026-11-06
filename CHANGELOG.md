@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.3.0 - 2026-11-06
+
 ## 0.2.1 - 2026-10-19
 
 - Point the layers guide and the product strategy guide to the goals and
