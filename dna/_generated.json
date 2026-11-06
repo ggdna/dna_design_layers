@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.13.0",
+      "resolvedVersion": "1.14.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,14 +15,14 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x04a504a3c4508814"
+      "hash": "0x32dba037e78edca5"
     }
   ],
   "claude": {
     "claudeMdInclude": null,
     "claudeMdFromDna": false
   },
-  "baseVersion": "1.13.0",
+  "baseVersion": "1.14.0",
   "baseHash": "0x6883da335b415f9d",
   "instances": [
     {
@@ -87,7 +87,7 @@
     },
     {
       "path": "doc/guides/layers/product-strategy-guide.md",
-      "hash": "0xb8479d53378e7892"
+      "hash": "0x933e01b4f60c7d21"
     },
     {
       "path": "doc/guides/layers/surface-guide.md",
