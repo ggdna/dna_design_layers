@@ -35,14 +35,14 @@ Ebene 3 von 7, Problemraum. Skill: `/layers-user-needs`.
 
 ## Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                       | Technik                                      |
-| ------------------------------- | -------------------------------------------- |
-| Standard                        | Job Stories: wenn, ich will, damit ich       |
-| Team arbeitet rollenbasiert     | User Stories                                 |
-| Große Nutzerbasis               | Top-Tasks-Analyse                            |
-| Abstimmung mit Stakeholdern     | Persona plus Szenario                        |
-| Messbarkeit ist wichtig         | ODI Desired Outcomes                         |
-| Viele Bedürfnisse               | Priorisieren: Wichtigkeit × wie schlecht bedient |
+| Situation                   | Technik                                          |
+| --------------------------- | ------------------------------------------------ |
+| Standard                    | Job Stories: wenn, ich will, damit ich           |
+| Team arbeitet rollenbasiert | User Stories                                     |
+| Große Nutzerbasis           | Top-Tasks-Analyse                                |
+| Abstimmung mit Stakeholdern | Persona plus Szenario                            |
+| Messbarkeit ist wichtig     | ODI Desired Outcomes                             |
+| Viele Bedürfnisse           | Priorisieren: Wichtigkeit × wie schlecht bedient |
 
 ## Festhalten <a id="capture"></a>
 

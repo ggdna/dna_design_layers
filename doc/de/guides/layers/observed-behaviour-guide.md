@@ -31,13 +31,13 @@ Ebene 1 von 7, Problemraum. Skill: `/layers-observed-behaviour`.
 
 ## Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                            | Technik                                          |
-| ------------------------------------ | ------------------------------------------------ |
-| Noch keine Forschung                 | Lernziel festlegen, dann eine Studie             |
-| Auslöser und Motive unklar           | JTBD-Interviews zu einem realen vergangenen Fall |
-| Sagen weicht vom Tun ab              | Contextual Inquiry, Shadowing                    |
-| Bestehendes Produkt                  | Support-Tickets, Analytics, Usability            |
-| Material vorhanden                   | Beobachtungen extrahieren, Muster gruppieren     |
+| Situation                  | Technik                                          |
+| -------------------------- | ------------------------------------------------ |
+| Noch keine Forschung       | Lernziel festlegen, dann eine Studie             |
+| Auslöser und Motive unklar | JTBD-Interviews zu einem realen vergangenen Fall |
+| Sagen weicht vom Tun ab    | Contextual Inquiry, Shadowing                    |
+| Bestehendes Produkt        | Support-Tickets, Analytics, Usability            |
+| Material vorhanden         | Beobachtungen extrahieren, Muster gruppieren     |
 
 ## Festhalten <a id="capture"></a>
 

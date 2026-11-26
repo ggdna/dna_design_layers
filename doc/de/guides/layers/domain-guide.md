@@ -36,15 +36,15 @@ Ebene 2 von 7, Problemraum. Skill: `/layers-domain`.
 
 ## Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                            | Technik                              |
-| ------------------------------------ | ------------------------------------ |
-| Beziehungen unklar                   | Concept Map (`graph TD`)             |
-| Sprache umstritten                   | Begriffs-Audit                       |
-| Gruppen gehen auseinander            | Bounded-Context-Mapping              |
-| Prozesslastige Domäne                | Domain Event Storming                |
-| Wissen steckt in Menschen            | Experteninterviews, Shadowing        |
+| Situation                            | Technik                               |
+| ------------------------------------ | ------------------------------------- |
+| Beziehungen unklar                   | Concept Map (`graph TD`)              |
+| Sprache umstritten                   | Begriffs-Audit                        |
+| Gruppen gehen auseinander            | Bounded-Context-Mapping               |
+| Prozesslastige Domäne                | Domain Event Storming                 |
+| Wissen steckt in Menschen            | Experteninterviews, Shadowing         |
 | Domäne erzeugt Formulare, Rechnungen | Analyse von Dokumenten und Artefakten |
-| Etablierter Markt                    | Wettbewerbsanalyse                   |
+| Etablierter Markt                    | Wettbewerbsanalyse                    |
 
 ## Festhalten <a id="capture"></a>
 

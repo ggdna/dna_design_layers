@@ -41,16 +41,16 @@ Ebene 5 von 7, Lösungsraum. Skill: `/layers-conceptual-model`.
 
 ## Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                            | Technik                                     |
-| ------------------------------------ | ------------------------------------------- |
-| Material zum Auswerten               | Noun Foraging, OOUX                         |
-| Ein Objekt unklar                    | Objektdefinition                            |
-| Objekthaftigkeit unsicher            | Zuerst den Ablauf skizzieren, dann formalisieren |
-| Beziehungen zu prüfen                | Relationale Objektkarte (`erDiagram`)       |
-| Status ändert, was erlaubt ist       | Zustandsdiagramm (`stateDiagram-v2`)        |
-| Verben uneinheitlich                 | Aktionsinventar über alle Objekte           |
-| Benennung umstritten                 | Liste der Ubiquitous Language               |
-| Redesign                             | Das bestehende Produkt durchgehen           |
+| Situation                      | Technik                                          |
+| ------------------------------ | ------------------------------------------------ |
+| Material zum Auswerten         | Noun Foraging, OOUX                              |
+| Ein Objekt unklar              | Objektdefinition                                 |
+| Objekthaftigkeit unsicher      | Zuerst den Ablauf skizzieren, dann formalisieren |
+| Beziehungen zu prüfen          | Relationale Objektkarte (`erDiagram`)            |
+| Status ändert, was erlaubt ist | Zustandsdiagramm (`stateDiagram-v2`)             |
+| Verben uneinheitlich           | Aktionsinventar über alle Objekte                |
+| Benennung umstritten           | Liste der Ubiquitous Language                    |
+| Redesign                       | Das bestehende Produkt durchgehen                |
 
 Die zeitlichen Entscheidungen abklopfen: Zwischenzustände, Leseverzögerung,
 Beziehung über die Zeit, Semantik des Löschens, Historie.

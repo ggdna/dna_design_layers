@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xf89b9b94fd2ea38e"
+      "hash": "0x2a07a1d3625e2a23"
     }
   ],
   "claude": {
@@ -69,19 +69,19 @@
     },
     {
       "path": "doc/de/guides/layers/conceptual-model-guide.md",
-      "hash": "0x77ffa070aa4b0a87"
+      "hash": "0x54687a35df04c486"
     },
     {
       "path": "doc/de/guides/layers/domain-guide.md",
-      "hash": "0x2b051c8145944469"
+      "hash": "0xbc3c2e0955481d2c"
     },
     {
       "path": "doc/de/guides/layers/interaction-flow-guide.md",
-      "hash": "0xc57b2b5a301577e7"
+      "hash": "0x1a07555ce5cb162a"
     },
     {
       "path": "doc/de/guides/layers/observed-behaviour-guide.md",
-      "hash": "0x5963366b64502db8"
+      "hash": "0xe4af3b7603458221"
     },
     {
       "path": "doc/de/guides/layers/orient-guide.md",
@@ -89,15 +89,15 @@
     },
     {
       "path": "doc/de/guides/layers/product-strategy-guide.md",
-      "hash": "0xfe58f9f97c290794"
+      "hash": "0xef463b07bb997997"
     },
     {
       "path": "doc/de/guides/layers/surface-guide.md",
-      "hash": "0xcac97f2c5cf2281b"
+      "hash": "0xc19ef09cef4016bb"
     },
     {
       "path": "doc/de/guides/layers/user-needs-guide.md",
-      "hash": "0x4f52979744c2b42a"
+      "hash": "0xa17259138b7aabf7"
     },
     {
       "path": "doc/en/guides/layers-guide.md",
@@ -141,35 +141,35 @@
     },
     {
       "path": "doc/fa/guides/layers/conceptual-model-guide.md",
-      "hash": "0xb6e7e69889813162"
+      "hash": "0x876de1d40642905d"
     },
     {
       "path": "doc/fa/guides/layers/domain-guide.md",
-      "hash": "0xab0667b612ec0502"
+      "hash": "0x362c4a07a0893f9e"
     },
     {
       "path": "doc/fa/guides/layers/interaction-flow-guide.md",
-      "hash": "0xf964fa2d355a2f1e"
+      "hash": "0xad89e1f562036af9"
     },
     {
       "path": "doc/fa/guides/layers/observed-behaviour-guide.md",
-      "hash": "0x75c7114028df50ed"
+      "hash": "0xcb3b63459b7cdae5"
     },
     {
       "path": "doc/fa/guides/layers/orient-guide.md",
-      "hash": "0x5338ec5489a3b471"
+      "hash": "0xf2a29b0a5d803d7a"
     },
     {
       "path": "doc/fa/guides/layers/product-strategy-guide.md",
-      "hash": "0x7f91aa8ebfac76b1"
+      "hash": "0x4205bf608d303571"
     },
     {
       "path": "doc/fa/guides/layers/surface-guide.md",
-      "hash": "0xeb58e4305c961be4"
+      "hash": "0xe984e41dfdfe6bf5"
     },
     {
       "path": "doc/fa/guides/layers/user-needs-guide.md",
-      "hash": "0xdea02fabfb110724"
+      "hash": "0x020884b2557a1c2f"
     }
   ]
 }
