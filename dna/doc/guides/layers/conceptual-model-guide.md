@@ -10,7 +10,7 @@ found in the LICENSE file in the root of this package.
 
 Layer 5 of 7, solution space. Skill: `/layers-conceptual-model`.
 
-## Know what this layer is
+## @layer Know what this layer is
 
 - The objects the product recognises, their relations, states and
   vocabulary — independent of any interface
@@ -18,7 +18,7 @@ Layer 5 of 7, solution space. Skill: `/layers-conceptual-model`.
   comfortable
 - Not the users' mental model, not a database schema
 
-## Decide
+## @decide Decide
 
 - Which objects exist and where their boundaries are
 - How objects relate: cardinality and named roles
@@ -26,7 +26,7 @@ Layer 5 of 7, solution space. Skill: `/layers-conceptual-model`.
 - Which states and transitions matter
 - One name per concept, one concept per name
 
-## Keep it honest
+## @honest Keep it honest
 
 - Real objects only: instanceable, structured, useful; "CAC" is an
   instance of Metric
@@ -38,7 +38,7 @@ Layer 5 of 7, solution space. Skill: `/layers-conceptual-model`.
   vs register a move
 - Redirect implementation talk to what the user can do
 
-## Pick a technique
+## @technique Pick a technique
 
 | Situation                      | Technique                             |
 | ------------------------------ | ------------------------------------- |
@@ -54,14 +54,14 @@ Layer 5 of 7, solution space. Skill: `/layers-conceptual-model`.
 Probe the temporal decisions: intermediate states, read lag, relationship
 over time, deletion semantics, history.
 
-## Capture
+## @capture Capture
 
 - Settled object definitions, provisional ones marked
 - Diagrams that encode a real relation or lifecycle
 - Vocabulary decisions with rejected alternatives
 - Open questions for engineering
 
-## Continue
+## @continue Continue
 
 When objects and actions are stable, design how users move through them:
 [interaction flow](interaction-flow-guide.md).

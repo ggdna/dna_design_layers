@@ -10,13 +10,13 @@ found in the LICENSE file in the root of this package.
 
 Layer 7 of 7, solution space. Skill: `/layers-surface`.
 
-## Know what this layer is
+## @layer Know what this layer is
 
 - Where everything below becomes what a person encounters: words, visuals,
   motion, feedback
 - Surface problems are often symptoms of deeper layers
 
-## Decide
+## @decide Decide
 
 - Whether the surface honours the model's vocabulary and objects
 - Whether every affordance of the breadboard is present, and nothing exists
@@ -26,7 +26,7 @@ Layer 7 of 7, solution space. Skill: `/layers-surface`.
 - What is most prominent, and whether it should be
 - Whether everything is accessible to the users who need it
 
-## Keep it honest
+## @honest Keep it honest
 
 - Tell surface fixes from deeper issues; route deeper ones back to their
   layer
@@ -36,7 +36,7 @@ Layer 7 of 7, solution space. Skill: `/layers-surface`.
 - Prominence reflects importance
 - Accessibility is decided, not defaulted
 
-## Pick a technique
+## @technique Pick a technique
 
 | Situation                   | Technique                                    |
 | --------------------------- | -------------------------------------------- |
@@ -49,14 +49,14 @@ Layer 7 of 7, solution space. Skill: `/layers-surface`.
 | Left to defaults            | Accessibility pass                           |
 | Producing surface           | Mockups, style tiles, prototypes, copy first |
 
-## Capture
+## @capture Capture
 
 - Findings, each tagged surface fix or deeper-layer issue
 - Open surface decisions with options and constraints
 - Cross-layer issues to resolve first
 - What already works well
 
-## Continue
+## @continue Continue
 
 Revisit the surface after every significant change to the
 [conceptual model](conceptual-model-guide.md) or

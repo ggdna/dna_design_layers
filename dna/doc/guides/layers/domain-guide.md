@@ -10,20 +10,20 @@ found in the LICENSE file in the root of this package.
 
 Layer 2 of 7, problem space. Skill: `/layers-domain`.
 
-## Know what this layer is
+## @layer Know what this layer is
 
 - What exists in the real world before any product: concepts, terms,
   processes, mental models
 - Observation, not design
 
-## Decide
+## @decide Decide
 
 - Which key concepts exist and how they relate
 - Which words people use, and where they conflict
 - Where the seams are: groups using the same word differently
 - Which events and processes structure the domain over time
 
-## Keep it honest
+## @honest Keep it honest
 
 - Record contradictions, do not resolve them; resolution belongs to the
   conceptual model
@@ -31,7 +31,7 @@ Layer 2 of 7, problem space. Skill: `/layers-domain`.
 - Mark nouns as object / attribute / instance / unclear, filter little
 - Say when you map team beliefs instead of researched fact
 
-## Pick a technique
+## @technique Pick a technique
 
 | Situation                       | Technique                      |
 | ------------------------------- | ------------------------------ |
@@ -43,14 +43,14 @@ Layer 2 of 7, problem space. Skill: `/layers-domain`.
 | Domain produces forms, invoices | Document and artefact analysis |
 | Established market              | Competitive analysis           |
 
-## Capture
+## @capture Capture
 
 - Concept map, if it earned its place
 - Terminology conflicts and bounded contexts
 - Key events
 - Noun harvest
 
-## Continue
+## @continue Continue
 
 The noun harvest is the raw material of the
 [conceptual model](conceptual-model-guide.md).
