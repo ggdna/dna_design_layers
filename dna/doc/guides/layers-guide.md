@@ -8,7 +8,7 @@ found in the LICENSE file in the root of this package.
 
 # Layers guide
 
-## Know the layer system
+## @layer Know the layer system
 
 - "Layers of Product Design" splits design work into seven layers in
   three zones; these guides follow
@@ -36,7 +36,7 @@ Solution space — deliberate decisions about what to build:
   actions and paths
 - 7 [Surface](layers/surface-guide.md) — what users see, read and hear
 
-## Treat design as decision making
+## @design Treat design as decision making
 
 - Every layer makes decisions; artefacts only record them
 - Four kinds of progress: make a decision, uncover an unmade one, evaluate
@@ -45,7 +45,7 @@ Solution space — deliberate decisions about what to build:
 - Flag bad decisions, not only missing ones
 - Capture decisions, not transcripts; keep the record short
 
-## Use the skills
+## @skills Use the skills
 
 - Load `/layers-intro` at the start of every design session
 - Run `/layers-orient` when unsure which layer needs attention, see the
@@ -57,7 +57,7 @@ Solution space — deliberate decisions about what to build:
   script: pick one technique for the live decision, work it, capture the
   residue
 
-## Record the results
+## @record Record the results
 
 - Write the residue of a session into the project management repo, see the
   [PM repo guide](pm-repo-guide.md#use-the-design-layers) of the

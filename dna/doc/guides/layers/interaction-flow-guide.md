@@ -10,14 +10,14 @@ found in the LICENSE file in the root of this package.
 
 Layer 6 of 7, solution space. Skill: `/layers-interaction-flow`.
 
-## Know what this layer is
+## @layer Know what this layer is
 
 - The places a user moves through, the affordances in each, the content
   shown, the flow between states
 - Above the model (what exists), below the surface (how it looks)
 - Always for one user in one situation doing one job
 
-## Decide
+## @decide Decide
 
 - Which places the flow moves through
 - What the user can do in each place, and where it leads
@@ -25,7 +25,7 @@ Layer 6 of 7, solution space. Skill: `/layers-interaction-flow`.
 - What happens on failure, empty and edge cases
 - Whether the flow is as simple as it can be
 
-## Keep it honest
+## @honest Keep it honest
 
 - Every affordance has a named destination
 - Edges are required steps: validation, server error, disconnect, timeout,
@@ -35,7 +35,7 @@ Layer 6 of 7, solution space. Skill: `/layers-interaction-flow`.
 - Vocabulary matches the ubiquitous language
 - Name places for users; more than 5–6 places per job is a signal
 
-## Pick a technique
+## @technique Pick a technique
 
 | Situation                | Technique                 |
 | ------------------------ | ------------------------- |
@@ -54,14 +54,14 @@ Place name
 [ content shown in this place ]
 ```
 
-## Capture
+## @capture Capture
 
 - The breadboard: places, affordances, destinations, content, conditions
 - A flow diagram, if it aids orientation
 - Open decisions and unresolved edge cases
 - Risks that depend on unsettled lower layers
 
-## Continue
+## @continue Continue
 
 Check that the [conceptual model](conceptual-model-guide.md) is stable,
 then move to the [surface](surface-guide.md).
