@@ -40,14 +40,14 @@ Ebene 6 von 7, Lösungsraum. Skill: `/layers-interaction-flow`.
 
 ## @technique Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                         | Technik                             |
-| --------------------------------- | ----------------------------------- |
-| Standard                          | Breadboarding                       |
-| Ungetroffene Entscheidungen finden | Den Ablauf als Nutzer durchgehen   |
-| Viel zu planen, viele Nutzer      | User Story Mapping                  |
-| Redesign                          | Aufgabenanalyse                     |
-| Kanäle und Backstage              | Service Blueprinting                |
-| Nur zur Orientierung              | Ablaufdiagramm (`graph LR`)         |
+| Situation                          | Technik                          |
+| ---------------------------------- | -------------------------------- |
+| Standard                           | Breadboarding                    |
+| Ungetroffene Entscheidungen finden | Den Ablauf als Nutzer durchgehen |
+| Viel zu planen, viele Nutzer       | User Story Mapping               |
+| Redesign                           | Aufgabenanalyse                  |
+| Kanäle und Backstage               | Service Blueprinting             |
+| Nur zur Orientierung               | Ablaufdiagramm (`graph LR`)      |
 
 Breadboard-Notation:
 

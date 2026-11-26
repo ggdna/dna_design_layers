@@ -39,16 +39,16 @@ Ebene 7 von 7, Lösungsraum. Skill: `/layers-surface`.
 
 ## @technique Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                          | Technik                                          |
-| ---------------------------------- | ------------------------------------------------ |
-| Begriffe wirken falsch             | Vokabular-Prüfung                                |
-| Dasselbe Objekt sieht anders aus   | Prüfung der Objekt-Konsistenz                    |
-| Etwas fehlt oder ist zu viel       | Vollständigkeitsprüfung gegen das Breadboard     |
-| Ton passt nicht                    | Prüfung des emotionalen Tons                     |
-| Nutzer unsicher, was passiert ist  | Inventar von Rückmeldungen und Fehlern           |
-| Zu viel konkurriert                | Prüfung der Hierarchie                           |
-| Den Voreinstellungen überlassen    | Durchgang zur Barrierefreiheit                   |
-| Oberfläche erstellen               | Mockups, Style Tiles, Prototypen, Texte zuerst   |
+| Situation                         | Technik                                        |
+| --------------------------------- | ---------------------------------------------- |
+| Begriffe wirken falsch            | Vokabular-Prüfung                              |
+| Dasselbe Objekt sieht anders aus  | Prüfung der Objekt-Konsistenz                  |
+| Etwas fehlt oder ist zu viel      | Vollständigkeitsprüfung gegen das Breadboard   |
+| Ton passt nicht                   | Prüfung des emotionalen Tons                   |
+| Nutzer unsicher, was passiert ist | Inventar von Rückmeldungen und Fehlern         |
+| Zu viel konkurriert               | Prüfung der Hierarchie                         |
+| Den Voreinstellungen überlassen   | Durchgang zur Barrierefreiheit                 |
+| Oberfläche erstellen              | Mockups, Style Tiles, Prototypen, Texte zuerst |
 
 ## @capture Festhalten <a id="capture"></a>
 

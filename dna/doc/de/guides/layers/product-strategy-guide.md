@@ -37,15 +37,15 @@ Ebene 4 von 7, erste Ebene des Lösungsraums. Skill:
 
 ## @technique Eine Technik wählen <a id="pick-a-technique"></a>
 
-| Situation                        | Technik                                 |
-| -------------------------------- | --------------------------------------- |
-| Standard                         | Opportunity Solution Tree               |
-| Gewählte Chance                  | Lösungswetten plus Experimente          |
-| Viele mögliche Features          | Kano-Analyse, Jobs-Portfolio            |
-| Ergebnis-Metrik wählen           | HEART, North Star                       |
-| Gemeinsamer Zeitplan nötig       | Now / Next / Later-Roadmap              |
-| Positionierung, bauen oder kaufen | Wardley Mapping, Bündeln / Entbündeln  |
-| Welcher Ablauf zuerst            | Kritische Nutzerwege                    |
+| Situation                         | Technik                               |
+| --------------------------------- | ------------------------------------- |
+| Standard                          | Opportunity Solution Tree             |
+| Gewählte Chance                   | Lösungswetten plus Experimente        |
+| Viele mögliche Features           | Kano-Analyse, Jobs-Portfolio          |
+| Ergebnis-Metrik wählen            | HEART, North Star                     |
+| Gemeinsamer Zeitplan nötig        | Now / Next / Later-Roadmap            |
+| Positionierung, bauen oder kaufen | Wardley Mapping, Bündeln / Entbündeln |
+| Welcher Ablauf zuerst             | Kritische Nutzerwege                  |
 
 ## @capture Festhalten <a id="capture"></a>
 
