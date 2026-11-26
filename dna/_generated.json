@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.14.0",
+      "resolvedVersion": "1.16.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,15 +15,17 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0x32dba037e78edca5"
+      "hash": "0xa65d477419c61a6e"
     }
   ],
   "claude": {
     "claudeMdInclude": null,
-    "claudeMdFromDna": false
+    "claudeMdFromDna": false,
+    "blockHash": null
   },
-  "baseVersion": "1.14.0",
+  "baseVersion": "1.16.0",
   "baseHash": "0x6883da335b415f9d",
+  "configHash": "0x8a6cdf2ac30ae263",
   "instances": [
     {
       "path": ".claude/skills/layers-conceptual-model/SKILL.md",
