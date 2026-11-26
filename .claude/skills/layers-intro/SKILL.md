@@ -5,5 +5,5 @@ description: Framework orientation for Layers of Product Design — load this fi
 
 # /layers-intro
 
-Read [layers-guide.md](../../../doc/guides/layers-guide.md) and work by it
+Read [layers-guide.md](../../../doc/en/guides/layers-guide.md) and work by it
 for the rest of the session.

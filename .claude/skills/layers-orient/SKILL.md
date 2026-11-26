@@ -6,7 +6,7 @@ description: Diagnostic audit across all seven layers — identifies the bottlen
 # /layers-orient
 
 Read
-[orient-guide.md](../../../doc/guides/layers/orient-guide.md)
+[orient-guide.md](../../../doc/en/guides/layers/orient-guide.md)
 and work by it. Read
-[layers-guide.md](../../../doc/guides/layers-guide.md) first if this is the
+[layers-guide.md](../../../doc/en/guides/layers-guide.md) first if this is the
 first layer skill in the session.

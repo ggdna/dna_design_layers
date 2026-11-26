@@ -6,7 +6,7 @@ description: Audit and decide the surface against the layers below — vocabular
 # /layers-surface
 
 Read
-[surface-guide.md](../../../doc/guides/layers/surface-guide.md)
+[surface-guide.md](../../../doc/en/guides/layers/surface-guide.md)
 and work by it. Read
-[layers-guide.md](../../../doc/guides/layers-guide.md) first if this is the
+[layers-guide.md](../../../doc/en/guides/layers-guide.md) first if this is the
 first layer skill in the session.

@@ -1,6 +1,6 @@
 <!--
 @license
-Copyright (c) ggdna
+Copyright (c) dnaCopyrightHolder
 
 Use of this source code is governed by terms that can be
 found in the LICENSE file in the root of this package.
@@ -11,13 +11,13 @@ found in the LICENSE file in the root of this package.
 Layer 4 of 7, first layer of the solution space. Skill:
 `/layers-product-strategy`.
 
-## Know what this layer is
+## @layer Know what this layer is
 
 - Where understanding turns into choices: which needs to serve, which
   business outcome to target
 - Bets, not certainties
 
-## Decide
+## @decide Decide
 
 - The business outcome this work serves
 - Which opportunities connect to that outcome
@@ -25,7 +25,7 @@ Layer 4 of 7, first layer of the solution space. Skill:
 - How to test the riskiest assumption cheaply
 - Which bets come first, and why
 
-## Keep it honest
+## @honest Keep it honest
 
 - One measurable, bounded outcome per tree
 - Opportunities are first-person needs anchored to a journey moment, not
@@ -34,7 +34,7 @@ Layer 4 of 7, first layer of the solution space. Skill:
 - Every bet names its riskiest assumption; more than one bet per opportunity
 - Every experiment is the cheapest test: days, not months
 
-## Pick a technique
+## @technique Pick a technique
 
 | Situation                   | Technique                              |
 | --------------------------- | -------------------------------------- |
@@ -46,17 +46,17 @@ Layer 4 of 7, first layer of the solution space. Skill:
 | Positioning, build or buy   | Wardley mapping, bundling / unbundling |
 | Which flow first            | Critical user journeys                 |
 
-## Capture
+## @capture Capture
 
 - The outcome
 - The opportunity tree, grouped by journey moment
 - The top 2–3 bets with their experiments
 - Deferred bets and untested assumptions
 
-## Continue
+## @continue Continue
 
 The chosen bets define what to model next in the
 [conceptual model](conceptual-model-guide.md). Goals live in `goals` of
-the current quarter folder `doc/<yyyy>-Q<n>` of the PM repo and are
+the current quarter folder `pm/<lang>/<yyyy>-Q<n>` of the PM repo and are
 carried into the next quarter while they are open; the requirements
 derived from the bets live in `requirements` beside them.

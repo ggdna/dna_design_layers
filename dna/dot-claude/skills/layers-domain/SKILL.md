@@ -6,7 +6,7 @@ description: Map a domain's concepts, terminology conflicts and bounded contexts
 # /layers-domain
 
 Read
-[domain-guide.md](../../../doc/guides/layers/domain-guide.md)
+[domain-guide.md](../../../doc/en/guides/layers/domain-guide.md)
 and work by it. Read
-[layers-guide.md](../../../doc/guides/layers-guide.md) first if this is the
+[layers-guide.md](../../../doc/en/guides/layers-guide.md) first if this is the
 first layer skill in the session.

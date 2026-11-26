@@ -6,7 +6,7 @@ description: Map places, affordances, edge cases and failure paths of a flow wit
 # /layers-interaction-flow
 
 Read
-[interaction-flow-guide.md](../../../doc/guides/layers/interaction-flow-guide.md)
+[interaction-flow-guide.md](../../../doc/en/guides/layers/interaction-flow-guide.md)
 and work by it. Read
-[layers-guide.md](../../../doc/guides/layers-guide.md) first if this is the
+[layers-guide.md](../../../doc/en/guides/layers-guide.md) first if this is the
 first layer skill in the session.

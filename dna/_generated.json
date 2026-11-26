@@ -5,7 +5,7 @@
       "name": "base",
       "package": "helix",
       "ecosystem": null,
-      "resolvedVersion": "1.17.0",
+      "resolvedVersion": "1.18.0",
       "via": null,
       "hash": "0x6883da335b415f9d"
     },
@@ -15,7 +15,7 @@
       "ecosystem": null,
       "resolvedVersion": null,
       "via": null,
-      "hash": "0xa65d477419c61a6e"
+      "hash": "0x2a07a1d3625e2a23"
     }
   ],
   "claude": {
@@ -23,81 +23,153 @@
     "claudeMdFromDna": false,
     "blockHash": null
   },
-  "baseVersion": "1.17.0",
+  "baseVersion": "1.18.0",
   "baseHash": "0x6883da335b415f9d",
   "configHash": "0x8a6cdf2ac30ae263",
   "instances": [
     {
       "path": ".claude/skills/layers-conceptual-model/SKILL.md",
-      "hash": "0xda240030955579b8"
+      "hash": "0x14e5a9b0e0a816ca"
     },
     {
       "path": ".claude/skills/layers-domain/SKILL.md",
-      "hash": "0xda08f4d45ff49767"
+      "hash": "0x56edc712026c8850"
     },
     {
       "path": ".claude/skills/layers-interaction-flow/SKILL.md",
-      "hash": "0x796a950f8a179288"
+      "hash": "0xc0636288a19d62b9"
     },
     {
       "path": ".claude/skills/layers-intro/SKILL.md",
-      "hash": "0x06c1d26e36f43472"
+      "hash": "0x242a4602b1da7557"
     },
     {
       "path": ".claude/skills/layers-observed-behaviour/SKILL.md",
-      "hash": "0x4108cd91e4e773cd"
+      "hash": "0xc9aeee1b0a93c045"
     },
     {
       "path": ".claude/skills/layers-orient/SKILL.md",
-      "hash": "0xec099416bd393283"
+      "hash": "0xe2fb6abc6767f442"
     },
     {
       "path": ".claude/skills/layers-product-strategy/SKILL.md",
-      "hash": "0xe88cb0659fdbafce"
+      "hash": "0x14bc75863fe491a1"
     },
     {
       "path": ".claude/skills/layers-surface/SKILL.md",
-      "hash": "0x3629176c7b400675"
+      "hash": "0x124cc7a1af563956"
     },
     {
       "path": ".claude/skills/layers-user-needs/SKILL.md",
-      "hash": "0x78edeebd96aba9bc"
+      "hash": "0xf0cff0d7f185e4c5"
     },
     {
-      "path": "doc/guides/layers-guide.md",
+      "path": "doc/de/guides/layers-guide.md",
+      "hash": "0x213ca23d55b1e66c"
+    },
+    {
+      "path": "doc/de/guides/layers/conceptual-model-guide.md",
+      "hash": "0x54687a35df04c486"
+    },
+    {
+      "path": "doc/de/guides/layers/domain-guide.md",
+      "hash": "0xbc3c2e0955481d2c"
+    },
+    {
+      "path": "doc/de/guides/layers/interaction-flow-guide.md",
+      "hash": "0x1a07555ce5cb162a"
+    },
+    {
+      "path": "doc/de/guides/layers/observed-behaviour-guide.md",
+      "hash": "0xe4af3b7603458221"
+    },
+    {
+      "path": "doc/de/guides/layers/orient-guide.md",
+      "hash": "0xabb3938205810c22"
+    },
+    {
+      "path": "doc/de/guides/layers/product-strategy-guide.md",
+      "hash": "0xef463b07bb997997"
+    },
+    {
+      "path": "doc/de/guides/layers/surface-guide.md",
+      "hash": "0xc19ef09cef4016bb"
+    },
+    {
+      "path": "doc/de/guides/layers/user-needs-guide.md",
+      "hash": "0xa17259138b7aabf7"
+    },
+    {
+      "path": "doc/en/guides/layers-guide.md",
       "hash": "0x8a6251ba719ab6d5"
     },
     {
-      "path": "doc/guides/layers/conceptual-model-guide.md",
+      "path": "doc/en/guides/layers/conceptual-model-guide.md",
       "hash": "0x3c0656b53f857fb8"
     },
     {
-      "path": "doc/guides/layers/domain-guide.md",
+      "path": "doc/en/guides/layers/domain-guide.md",
       "hash": "0x106bb263eb05982a"
     },
     {
-      "path": "doc/guides/layers/interaction-flow-guide.md",
+      "path": "doc/en/guides/layers/interaction-flow-guide.md",
       "hash": "0xd5d3fb1b895d633c"
     },
     {
-      "path": "doc/guides/layers/observed-behaviour-guide.md",
+      "path": "doc/en/guides/layers/observed-behaviour-guide.md",
       "hash": "0x056a0821aa714763"
     },
     {
-      "path": "doc/guides/layers/orient-guide.md",
+      "path": "doc/en/guides/layers/orient-guide.md",
       "hash": "0x8cb92c6b4f366acb"
     },
     {
-      "path": "doc/guides/layers/product-strategy-guide.md",
-      "hash": "0x933e01b4f60c7d21"
+      "path": "doc/en/guides/layers/product-strategy-guide.md",
+      "hash": "0x1bc3fb904d4b15fe"
     },
     {
-      "path": "doc/guides/layers/surface-guide.md",
+      "path": "doc/en/guides/layers/surface-guide.md",
       "hash": "0x9281d6ca67379aa9"
     },
     {
-      "path": "doc/guides/layers/user-needs-guide.md",
+      "path": "doc/en/guides/layers/user-needs-guide.md",
       "hash": "0x90e00fcd4243afda"
+    },
+    {
+      "path": "doc/fa/guides/layers-guide.md",
+      "hash": "0x07b0a6c45bcc2087"
+    },
+    {
+      "path": "doc/fa/guides/layers/conceptual-model-guide.md",
+      "hash": "0x876de1d40642905d"
+    },
+    {
+      "path": "doc/fa/guides/layers/domain-guide.md",
+      "hash": "0x362c4a07a0893f9e"
+    },
+    {
+      "path": "doc/fa/guides/layers/interaction-flow-guide.md",
+      "hash": "0xad89e1f562036af9"
+    },
+    {
+      "path": "doc/fa/guides/layers/observed-behaviour-guide.md",
+      "hash": "0xcb3b63459b7cdae5"
+    },
+    {
+      "path": "doc/fa/guides/layers/orient-guide.md",
+      "hash": "0xf2a29b0a5d803d7a"
+    },
+    {
+      "path": "doc/fa/guides/layers/product-strategy-guide.md",
+      "hash": "0x4205bf608d303571"
+    },
+    {
+      "path": "doc/fa/guides/layers/surface-guide.md",
+      "hash": "0xe984e41dfdfe6bf5"
+    },
+    {
+      "path": "doc/fa/guides/layers/user-needs-guide.md",
+      "hash": "0x020884b2557a1c2f"
     }
   ]
 }
