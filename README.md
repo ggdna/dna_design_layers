@@ -5,11 +5,19 @@ skills.
 
 ## What it ships
 
-- `doc/guides/layers-guide.md` — the layer system, design as decision
+- `dna/doc/en/guides/layers-guide.md` — the layer system, design as decision
   making, how to use the skills, where results are recorded
-- `doc/guides/layers/*-guide.md` — one short guide per layer plus the
+- `dna/doc/en/guides/layers/*-guide.md` — one short guide per layer plus the
   orient audit
 - `.claude/skills/layers-*` — nine skills that load the matching guide
+
+Every file of `dna/doc/en/` also ships in German and Farsi, with the
+same name:
+
+- `dna/doc/de/guides/`
+- `dna/doc/de/guides/layers/`
+- `dna/doc/fa/guides/`
+- `dna/doc/fa/guides/layers/`
 
 The guides follow
 [layers-skills](https://github.com/jamiemill/layers-skills) by Jamie Mill
